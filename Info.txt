@@ -1,0 +1,6 @@
+CodSoft Internship
+------------------
+1) Task 1 (Simple calculator)
+2) Task 2 (Student Grading System)
+3) Task 3 (WordCount) 
+4) Task 4 (NumberGuessing Game)
